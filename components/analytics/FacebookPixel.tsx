@@ -72,6 +72,7 @@ declare global {
   }
 }
 
+
 export function trackFbEvent(
   eventName: string,
   data?: Record<string, unknown>
