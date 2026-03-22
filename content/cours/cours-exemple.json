@@ -1,0 +1,76 @@
+{
+  "slug": "modes-grecs-guitare-complet",
+  "title": "Les 7 modes grecs à la guitare — Guide complet",
+  "description": "Comprendre et utiliser les 7 modes grecs (Ionien, Dorien, Phrygien, Lydien, Mixolydien, Éolien, Locrien) pour enrichir votre jeu et votre improvisation.",
+  "excerpt": "Du Do ionien au Si locrien : apprenez les 7 modes, leurs couleurs sonores et comment les placer sur une grille d'accords.",
+
+  "category": "cours",
+
+  "style": "theorie",
+  "tags": [
+    "modes",
+    "modes grecs",
+    "théorie musicale",
+    "gammes",
+    "improvisation",
+    "jazz",
+    "rock progressif",
+    "avancé"
+  ],
+
+  "niveau": "avance",
+
+  "date": "2024-11-15",
+  "updatedAt": "2025-02-20",
+
+  "author": "Salomon Boris",
+
+  "coverImage": "/images/cours/modes-grecs.jpg",
+
+  "featured": false,
+
+  "views": 1920,
+  "popularity": 78,
+  "rating": 4.9,
+
+  "gratuit": false,
+  "price": 19,
+  "priceOld": null,
+
+  "youtube": "modesgrecsguitar2024",
+  "youtubePlaylist": null,
+
+  "duration": "4 heures de vidéo",
+
+  "prerequisites": [
+    "Maîtriser la gamme majeure (positions 1 et 2 minimum)",
+    "Comprendre les intervalles (tierce, quinte, septième)",
+    "Jouer en position de gamme sur tout le manche",
+    "Niveau intermédiaire solide (12+ mois de pratique)"
+  ],
+
+  "objectives": [
+    "Identifier les 7 modes et leurs intervalles caractéristiques",
+    "Visualiser chaque mode sur le manche sans réfléchir",
+    "Reconnaître à l'oreille la couleur de chaque mode",
+    "Improviser avec le bon mode sur chaque accord d'une progression",
+    "Composer des riffs et des lignes mélodiques modales"
+  ],
+
+  "seo": {
+    "metaTitle": "Les 7 modes grecs à la guitare — Cours complet | Salomon Boris",
+    "metaDescription": "Ionien, Dorien, Phrygien, Lydien, Mixolydien, Éolien, Locrien : le guide ultime des modes grecs pour guitaristes. Visualisation sur le manche + improvisation.",
+    "ogImage": "/images/og/modes-grecs.jpg",
+    "keywords": [
+      "modes grecs guitare",
+      "gamme dorien guitare",
+      "gamme phrygien guitare",
+      "gamme lydien guitare",
+      "improvisation modale guitare",
+      "théorie guitare avancé"
+    ],
+    "canonicalUrl": null
+  },
+
+  "body": "## Introduction : pourquoi les modes ?\n\nLes modes sont souvent présentés comme un concept théorique complexe. En réalité, vous les utilisez peut-être déjà sans le savoir. Ce cours démystifie les modes et vous donne des outils concrets pour les appliquer immédiatement.\n\n## Les 7 modes de la gamme de Do majeur\n\nChaque mode utilise les mêmes notes de la gamme de Do majeur, mais part d'une note différente :\n\n| Mode | Note de départ | Intervalles | Couleur |\n|------|---------------|-------------|----------|\n| Ionien | Do | 1-2-3-4-5-6-7 | Joyeux, stable |\n| Dorien | Ré | 1-2-b3-4-5-6-b7 | Blues, funky |\n| Phrygien | Mi | 1-b2-b3-4-5-b6-b7 | Espagnol, sombre |\n| Lydien | Fa | 1-2-3-#4-5-6-7 | Rêveur, spatial |\n| Mixolydien | Sol | 1-2-3-4-5-6-b7 | Rock, dominante |\n| Éolien | La | 1-2-b3-4-5-b6-b7 | Mélancolique |\n| Locrien | Si | 1-b2-b3-4-b5-b6-b7 | Instable, tendu |\n\n## Mode 1 — Ionien (Do majeur)\n\nL'ionien = la gamme majeure. C'est la référence.\n\n```\ne|--0--2--3-----------|\nB|--0--1--3-----------|\nG|--0--2--------------|\nD|--0--2--3-----------|\nA|--0--2--3-----------|\nE|--0--2--3-----------|\n```\n\n**Usage** : tout contexte majeur — pop, folk, musique classique.\n**Accords qui appellent l'ionien** : Imaj7, IVmaj7.\n\n## Mode 2 — Dorien (Ré dorien)\n\nMineur avec la 6e majeure — la note caractéristique.\n\n```\ne|--5--7--8-----------|\nB|--5--6--8-----------|\nG|--5--7--------------|\nD|--5--7--8-----------|\nA|--5--7--------------|\nE|--5--7--8-----------|\n```\n\n**Usage** : jazz, funk, rock psychédélique. Carlos Santana adore ce mode.\n**Accords qui appellent le dorien** : Im7 avec une couleur jazzy, IIm7.\n\n**Riff exemple (Dorien) :**\n```\ne|------------------------|\nB|------------------------|\nG|--7--7--9--7--5---------|\nD|--7--7--9--7--5--7------|\nA|--5--5--7--5--3--7------|\nE|-----------------5------|\n```\n\n## Mode 3 — Phrygien (Mi phrygien)\n\nLe mode espagnol par excellence. La 2e bémol est sa signature.\n\n```\ne|--7--8--------------|\nB|--5--6--8-----------|\nG|--5--7--------------|\nD|--5--7--8-----------|\nA|--5--6--7-----------|\nE|--5--7--8-----------|\n```\n\n**Usage** : flamenco, metal (Metallica — Wherever I May Roam), musique orientale.\n**Accords qui appellent le phrygien** : Im (avec bII en voisin).\n\n## Mode 4 — Lydien (Fa lydien)\n\nLe mode le plus lumineux. La quarte augmentée (#4) lui donne un caractère unique.\n\n**Usage** : musiques de film (John Williams), rock progressif, Joe Satriani.\n**Accords qui appellent le lydien** : Imaj7#11, IVmaj7.\n\n## Mode 5 — Mixolydien (Sol mixolydien)\n\nMajeur avec la 7e bémol. Le mode du rock et du blues.\n\n**Usage** : rock, blues, country. Led Zeppelin, Rolling Stones.\n**Accords qui appellent le mixolydien** : I7, V7 (accord de dominante).\n\n**C'est le mode le plus utile en pratique** pour les guitaristes rock et blues.\n\n## Mode 6 — Éolien (La mineur naturel)\n\nL'éolien = la gamme mineure naturelle. Probablement le mode que vous utilisez déjà.\n\n**Usage** : rock, metal, pop mineure. Novembre, Radiohead, Pink Floyd.\n**Accords qui appellent l'éolien** : Im, bVII, bVI.\n\n## Mode 7 — Locrien (Si locrien)\n\nLe mode le plus instable. La quinte bémol empêche toute résolution.\n\n**Usage** : très rare à l'état pur. Metal extrême, Björk. Surtout utile sur IIm7b5 en jazz.\n\n## Comment pratiquer les modes ?\n\n### Étape 1 : La démarche horizontale\nJouer chaque mode de la même note de référence (ex : tout en La).\n\n### Étape 2 : La démarche verticale\nJouer tous les modes depuis la même position de manche.\n\n### Étape 3 : Associer mode et accord\nDès qu'un accord apparaît dans une progression, identifier instantanément quel mode convient.\n\n## Progression type pour pratiquer\n\n```\n|| Dm7 | G7 | Cmaj7 | Am7 ||\n   Dorien  Mixo  Ionien  Éolien\n```\n\nEntraînez-vous à switcher de mode sur chaque accord de cette progression."
+}

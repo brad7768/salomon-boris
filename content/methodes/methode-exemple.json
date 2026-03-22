@@ -1,0 +1,123 @@
+{
+  "slug": "blues-guitare-12-semaines",
+  "title": "Apprendre le blues à la guitare — Programme 12 semaines",
+  "description": "Un programme intensif de 12 semaines pour maîtriser le blues : gammes, licks, improvisation et feeling. De l'accord de mi 7 au jeu en bande.",
+  "excerpt": "Gammes pentatoniques, shuffle rhythm, bending expressif, licks classiques — tout ce qu'il faut pour jouer du vrai blues en 3 mois.",
+
+  "category": "methodes",
+
+  "style": "blues",
+  "tags": [
+    "blues",
+    "pentatonique",
+    "improvisation",
+    "shuffle",
+    "bending",
+    "licks",
+    "gammes",
+    "intermédiaire"
+  ],
+
+  "niveau": "intermediaire",
+
+  "date": "2024-09-01",
+  "updatedAt": "2025-01-10",
+
+  "author": "Salomon Boris",
+
+  "coverImage": "/images/methodes/blues-12-semaines.jpg",
+
+  "featured": true,
+
+  "views": 3840,
+  "popularity": 92,
+  "rating": 4.8,
+
+  "gratuit": false,
+  "price": 29,
+  "priceOld": 49,
+
+  "youtube": "abc123bluesmethode",
+  "youtubePlaylist": "PLbluesseries2024",
+
+  "duration": "12 semaines",
+
+  "prerequisites": [
+    "Tenir la guitare et accorder seul",
+    "Connaître 5–6 accords ouverts",
+    "Maîtriser un strumming simple à 80 BPM",
+    "Avoir joué au moins 3 mois"
+  ],
+
+  "objectives": [
+    "Maîtriser la gamme pentatonique mineure dans les 5 positions",
+    "Jouer un shuffle blues authentique en rythme",
+    "Improviser sur une grille de blues 12 mesures",
+    "Reproduire 15 licks classiques de blues (BB King, Clapton, SRV)",
+    "Maîtriser le bending d'un ton avec vibrato",
+    "Comprendre et utiliser la note bleue (quinte diminuée)",
+    "Jouer avec un backing track en La, Mi et Ré"
+  ],
+
+  "sections": [
+    {
+      "title": "Module 1 — Fondations du blues",
+      "description": "La grille 12 mesures, le shuffle, les accords de dominante 7.",
+      "duration": "Semaines 1–2",
+      "youtube": null,
+      "content": "### La grille 12 mesures en La\n\nStructure fondamentale de tout le blues occidental :\n\n```\n| A7  | A7  | A7  | A7  |\n| D7  | D7  | A7  | A7  |\n| E7  | D7  | A7  | E7  |\n```\n\n### Le shuffle rhythm\n\nLe shuffle est le cœur battant du blues. Il repose sur un feeling ternaire :\n\n- Pulsation : noire pointée + croche (≈ JJJ)\n- Pattern de main droite : bas-bas-haut, bas-bas-haut\n- Tempo de départ : 70 BPM\n\n**Exercice** : jouer le boogie-woogie de base sur A7 au métronome."
+    },
+    {
+      "title": "Module 2 — La pentatonique mineure",
+      "description": "Les 5 positions de la gamme pentatonique mineure en La.",
+      "duration": "Semaines 3–4",
+      "youtube": "penta5pos2024",
+      "content": "### Position 1 — La référence\n\n```\ne|--5--8------|\nB|--5--8------|\nG|--5--7------|\nD|--5--7------|\nA|--5--7------|\nE|--5--8------|\n```\n\nApprenez d'abord la position 1 montante et descendante, puis liez les positions entre elles.\n\n**Exercice de la semaine** : improviser 10 minutes par jour sur ce backing track blues en La mineur à 80 BPM."
+    },
+    {
+      "title": "Module 3 — Bending & Vibrato",
+      "description": "Techniques expressives essentielles au son blues authentique.",
+      "duration": "Semaines 5–6",
+      "youtube": null,
+      "content": "### Le bending d'un ton\n\nLe bending consiste à tirer la corde perpendiculairement au manche pour hausser la note.\n\n**Notation :** `8b10` = case 8, bend d'un ton (monte vers la note en case 10)\n\n```\ne|---8b10---8b10r8---|\nB|-------------------|\n```\n\n### Le vibrato\n\nAprès le bend, ajouter un vibrato en oscillant légèrement. Écouter BB King pour la référence absolue."
+    },
+    {
+      "title": "Module 4 — Licks classiques",
+      "description": "15 licks incontournables du blues électrique américain.",
+      "duration": "Semaines 7–8",
+      "youtube": "licks15blues",
+      "content": "### Lick 1 — Le lick de BB King\n\n```\ne|--------8b10--8---5---------|\nB|--8--8-----------8---8--5--|\nG|----------------------------|\n```\n\n### Lick 2 — Le turnaround en La\n\n```\ne|--5--8--7--5--4--5--|\nB|--------------------|\nG|--------------------|\n```\n\nTravaillez chaque lick au ralenti (60% du tempo) avant d'accélérer."
+    },
+    {
+      "title": "Module 5 — La note bleue",
+      "description": "La quinte diminuée (blue note) : utilisation et placement dans l'impro.",
+      "duration": "Semaines 9–10",
+      "youtube": null,
+      "content": "### La gamme blues\n\nLa gamme blues = pentatonique mineure + quinte diminuée (b5) :\n\n**En La** : La – Do – Ré – **Mib** – Mi – Sol\n\nLa note bleue (Mib) crée la tension caractéristique du blues. À utiliser comme note de passage, jamais comme note d'arrivée sauf effet très voulu."
+    },
+    {
+      "title": "Module 6 — Improvisation libre",
+      "description": "Mettre tout ensemble sur des backing tracks variés.",
+      "duration": "Semaines 11–12",
+      "youtube": "improlibreblues",
+      "content": "### Backing tracks inclus\n\n- Blues en La lent (60 BPM)\n- Blues en Mi shuffle (90 BPM)\n- Blues en Ré rapide (120 BPM)\n- Blues mineur atmosphérique\n\n### Conseils d'improvisation\n\n1. **Laisser respirer** : les silences font partie du blues\n2. **Répéter une idée** : construire une phrase, la varier\n3. **Écouter le rythme** : s'ancrer dans le groove avant la mélodie\n4. **Dialoguer** : réponse à la guitare, comme une conversation"
+    }
+  ],
+
+  "seo": {
+    "metaTitle": "Apprendre le blues guitare en 12 semaines | Salomon Boris",
+    "metaDescription": "Programme complet 12 semaines pour apprendre le blues à la guitare : gammes pentatoniques, licks, improvisation et shuffle. Niveau intermédiaire.",
+    "ogImage": "/images/og/blues-12-semaines.jpg",
+    "keywords": [
+      "apprendre blues guitare",
+      "méthode blues guitare",
+      "gamme pentatonique blues",
+      "improvisation blues guitare",
+      "cours blues guitare en ligne",
+      "shuffle blues guitare"
+    ],
+    "canonicalUrl": null
+  },
+
+  "body": "## Pourquoi cette méthode ?\n\nLe blues est la mère de toute la musique rock, soul et jazz moderne. Maîtriser le blues, c'est ouvrir la porte à un répertoire immense et à une liberté d'expression unique.\n\nCette méthode de 12 semaines est structurée de manière progressive : chaque module s'appuie sur le précédent. À l'issue du programme, vous serez capable d'improviser sur n'importe quelle grille de blues et de jouer les licks emblématiques des plus grands.\n\n## Comment utiliser cette méthode ?\n\n1. **Suivez l'ordre** des modules — ne sautez pas d'étape\n2. **Pratiquez 20–30 min/jour** — la régularité prime sur la durée\n3. **Enregistrez-vous** régulièrement pour suivre vos progrès\n4. **Utilisez un métronome** ou les backing tracks fournis\n\n## Ce que disent les élèves\n\n> « En 8 semaines j'ai joué mon premier jam blues. Incroyable. » — Marco, 34 ans\n\n> « Les licks de BB King que je n'arrivais pas à comprendre sont devenus évidents. » — Sophie, 28 ans\n\n## Matériel nécessaire\n\n- Guitare électrique (ou acoustique acier — la classique nylon déconseillée)\n- Ampli (même petit combo suffira)\n- Câble jack\n- Métronome (application mobile suffira)\n- Médiators : medium ou heavy recommandés\n\n## Foire aux questions\n\n**Peut-on faire cette méthode à la guitare acoustique ?**\nOui, mais certains effets (bending fort, vibrato) seront plus difficiles. L'électrique est recommandée.\n\n**Dois-je connaître le solfège ?**\nNon. Cette méthode est entièrement orientée pratique."
+}

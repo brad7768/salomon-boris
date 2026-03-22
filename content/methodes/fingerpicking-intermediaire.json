@@ -1,0 +1,18 @@
+{
+  "slug": "fingerpicking-intermediaire",
+  "title": "Fingerpicking — Technique intermédiaire",
+  "description": "Maîtrisez le fingerpicking avec des patterns Travis picking, arpèges et mélodies simultanées.",
+  "excerpt": "De Travis picking aux mélodies en fingerstyle, une méthode progressive pour guitaristes intermédiaires.",
+  "category": "methodes",
+  "tags": ["fingerpicking", "fingerstyle", "travis-picking", "arpèges"],
+  "niveau": "intermediaire",
+  "date": "2024-03-10",
+  "author": "Salomon Boris",
+  "coverImage": "/images/methodes/fingerpicking.jpg",
+  "featured": true,
+  "views": 876,
+  "gratuit": false,
+  "price": 19,
+  "youtube": null,
+  "body": "## Le fingerpicking, c'est quoi ?\n\nLe fingerpicking consiste à pincer les cordes individuellement avec les doigts de la main droite, sans médiator.\n\n## Pattern de base — Travis Picking\n\nLe Travis picking alterne basse sur le pouce et mélodie sur l'index/majeur.\n\n```\nT = pouce (basses)\nI = index\nM = majeur\n\n    1   e   +   a   2   e   +   a\nT   x               x\nI       x\nM               x\n```\n\n## Exercices progressifs\n\n1. **Exercice 1** : Do majeur en Travis picking à 60 BPM\n2. **Exercice 2** : Sol → Ré → La progression\n3. **Exercice 3** : Mélodie simple en overlay\n\nTravaillez chaque exercice 10 minutes avant de passer au suivant."
+}

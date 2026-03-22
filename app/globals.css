@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #03045E;
+    --color-text: #22223B;
+    --color-text-secondary: #6C6C6C;
+    --color-bg: #F8F9FA;
+    --color-neutral: #EDEDE9;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-text antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  ::selection {
+    @apply bg-primary/20 text-primary;
+  }
+
+  /* Focus visible uniquement au clavier */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary rounded;
+  }
+}
+
+@layer components {
+  .prose-custom {
+    @apply prose prose-lg max-w-none
+      prose-headings:text-primary prose-headings:font-bold
+      prose-a:text-primary prose-a:underline hover:prose-a:no-underline
+      prose-strong:text-text prose-code:text-primary
+      prose-blockquote:border-l-primary prose-blockquote:text-text-secondary;
+  }
+
+  .gradient-primary {
+    @apply bg-gradient-to-br from-primary to-primary/80;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-lg;
+  }
+
+  .link-underline {
+    @apply relative after:absolute after:bottom-0 after:left-0 after:h-0.5
+      after:w-0 after:bg-primary after:transition-all after:duration-300
+      hover:after:w-full;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
