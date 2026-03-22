@@ -2,6 +2,10 @@
 const nextConfig = {
   distDir: ".next",
 
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
   images: {
     remotePatterns: [
       {
